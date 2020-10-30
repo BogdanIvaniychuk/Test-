@@ -1,0 +1,57 @@
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\EFCore second lesson.exe
+D:\С#\EFCore second lesson\EFCore second lesson\obj\Debug\netcoreapp3.1\EFCore second lesson.csprojAssemblyReference.cache
+D:\С#\EFCore second lesson\EFCore second lesson\obj\Debug\netcoreapp3.1\EFCore second lesson.AssemblyInfoInputs.cache
+D:\С#\EFCore second lesson\EFCore second lesson\obj\Debug\netcoreapp3.1\EFCore second lesson.AssemblyInfo.cs
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\С#\EFCore second lesson\EFCore second lesson\obj\Debug\netcoreapp3.1\EFCore second lesson.csproj.CopyComplete
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\EFCore second lesson.deps.json
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\EFCore second lesson.runtimeconfig.json
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\EFCore second lesson.runtimeconfig.dev.json
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\EFCore second lesson.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\EFCore second lesson.pdb
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\С#\EFCore second lesson\EFCore second lesson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\С#\EFCore second lesson\EFCore second lesson\obj\Debug\netcoreapp3.1\EFCore second lesson.csproj.CoreCompileInputs.cache
+D:\С#\EFCore second lesson\EFCore second lesson\obj\Debug\netcoreapp3.1\EFCore second lesson.dll
+D:\С#\EFCore second lesson\EFCore second lesson\obj\Debug\netcoreapp3.1\EFCore second lesson.pdb
+D:\С#\EFCore second lesson\EFCore second lesson\obj\Debug\netcoreapp3.1\EFCore second lesson.genruntimeconfig.cache

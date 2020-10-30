@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit test", "Unit test\Unit test.csproj", "{0AABD91E-D0A7-4F6C-9A96-0D6E8664A7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTests", "BankTests\BankTests.csproj", "{CAD4AB96-C794-4B0D-A2AC-8C2B82321A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AABD91E-D0A7-4F6C-9A96-0D6E8664A7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AABD91E-D0A7-4F6C-9A96-0D6E8664A7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AABD91E-D0A7-4F6C-9A96-0D6E8664A7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AABD91E-D0A7-4F6C-9A96-0D6E8664A7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD4AB96-C794-4B0D-A2AC-8C2B82321A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD4AB96-C794-4B0D-A2AC-8C2B82321A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD4AB96-C794-4B0D-A2AC-8C2B82321A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD4AB96-C794-4B0D-A2AC-8C2B82321A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D02CA585-69E5-4339-83C2-2DC25D87E475}
+	EndGlobalSection
+EndGlobal
